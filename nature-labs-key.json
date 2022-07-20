@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tracing-matrix",
+  "private_key_id": "4b8ea0a0518930af835716fb519827167f08c921",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjT93IVj/ih54b\nMH4JqwrvuVVMBu1Tq101+dNx2yKjvR/lPPkbhjGX418fvFwyhHcD+Xm6yDbGe900\npqER46hH8cZQ+L3LCdhKj/hzlRlZeBGGal34NlImixFrTJZAyC3UCYqpD4QfRdUh\nUBsoLSCtRUth/s03jFEzZBNvAepjkizTZY5LZ/U9gJNV6Wnar0SoZOzniYbAsH21\ntWMwCs3l7USglu56IP8qYUk2Bfh7MUAaiaWVOtJA2DQ1zY1aLImVnZu7lami3dmJ\nw92aXR7y6yL4K8dARfFqkF9mMj+buVHk4sjgkXi6M+wuknk4FGqyOXc+dPtyG11T\nvCzqBWRbAgMBAAECggEAVfOkLBWY8IJRYXyTm/pGF2FgBHB2GvYoN7mwn1O6JGnl\n/ptwoly6sfEyzeA+iIeYLTOPOPZt5918RmVfcFFCF3ovf/yeX4DofUE1NBdDz5Xc\nIpRj1fBMXfCl9ImwIuzOj2fQO573WY/hSEhvDGEMAxi5qWNcm81+As2rn4T86Qrt\nJQmLAMstp2hzTC1TUhrUqmgFlszz8ElnrK+G3hCDWsSl9afvxBWDCK1HTeqz5Cb1\niIBHxa2u5ju4Z7YCXkqtnZHJlWbTWw6CjnMqWpzvkssgBHVZoAq5dtqMVsGRlada\nfSpbSZYmCJMEoh7jSK7WdDtPxq7TmJN0/qy1RqlfGQKBgQD+D1yWETNnE0GORdYy\nMaIbqWybPNV0KNwQx7y2fPKOqp34ld/fuouc9QldZ5XtK7QUCGtRu37Jvr1+CC9/\nxZXnAV175nXPipEaOFOrljGsOjggdb5XGw89UHdjce8Vy+enZ4LWEh7hImwLCLWV\nYSkBWoBZvRgjVmowFf4NlTjcBQKBgQDlDDepvjzLYKKZNLiibpGkCkEOWupXZuvy\nzTDOB61H3XUJgqSSblTRGrKnb+nfqmjAg+aE9k3Pq7Lney9PL7CjTLfNMmo2nbWN\n4HTd5bkGkGHoM7c1D6vGF3k4mfGcYpB3/88pcexXSdYvYRpU4/yEcvzaK9SNEtlA\nzkeZ42+M3wKBgQDF0YZA3vHMP2Ua92u5t4XGzhvfn/WANdRsSGm7Gfzvcw//oAsq\nNCFDPFRnYyGNAyt7MbcGc9xcD+WR/aOmdF2s+hYlRCPVTsp+xP75KsBQnyBWvfdP\n8aTjFAVx7CPCL/uXEHUCZCehGuFPkh95SabZA/POa/sggMe721PulZMpVQKBgB/B\nR95Sr58KsMBI3Og4KBz0Bvz0gdTIQiIRbJjD27RA8b71y9c5UK0E5IvuKiCGQauf\nHdCFTVhjV5RcMbzqwbSCKGFcgfk8eDVJTyqMdNCCJ/DHarkCiTAXhQjh3utthtX8\nMz5tuvSHGhjLf5kRWqsKPiAJP5inalNfxfGB5K9FAoGAFFQ198lbhYGBHTr79BcS\nApCesNg60/pS1Us8l3fQ21KeNwWjYGY9viHzrYGugiZh7R2b/KX5bKbGaQlbrSkP\naz5LlPKOaUoasEyWTiboPDrNIyPDIyJSouc0M2gnEadHc3y/ZISI9Hk9fLvhFYnv\nOW/4j8yRz4Y/bS8GKjYtj3A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nature-labs@tracing-matrix.iam.gserviceaccount.com",
+  "client_id": "105200341468257426134",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nature-labs%40tracing-matrix.iam.gserviceaccount.com"
+}
